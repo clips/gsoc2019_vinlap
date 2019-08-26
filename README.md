@@ -40,11 +40,11 @@ In [notebooks](/notebooks), you will find 4 jupyter notebooks:
 
 GeoSpeech contains two scripts. The first one will help you to crawl the complete json of a set of tweets' ids. This was used to get  [tweets_maga](/data/tweets_maga.json) . The second one will get the locations of the tweets even though they are not geolocated.
 
-### [Exploratory Data Analysis](/notebooks/MAGA Corpus - Exploratory Data Analysis.ipynb) 
+### [Exploratory Data Analysis](/notebooks/MAGACorpus-Exploratory Data Analysis.ipynb) 
 
 This notebook will give you an overview of the data we are working with. We consider useful for any tabular dataset you have. You will fins data distributions, unique themes, frequencies, etc.
 
-### [ScattertextGenerator](/notebooks/Scattertext Generator.ipynb) 
+### [ScattertextGenerator](/notebooks/ScattertextGenerator.ipynb) 
 
 ScattertextGenerator contains the main script of the project. It has a plug-n-play function to generate scattertexts as the ones in [results](/results) . 
 
