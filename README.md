@@ -59,11 +59,11 @@ The scattertexts from our case of study's dataset.
 
 ## Authors
 
-* **Fabricio Layedra** - *GSoC 2019 Student with CLiPS* - [PurpleBooth](https://github.com/FabricioLayedra)
+* **Fabricio Layedra** - *GSoC 2019 Student with CLiPS* - [On GitHub](https://github.com/FabricioLayedra)
 
 ## Acknowledgments
 
-* **CLiPS** - *Supervision* - [PurpleBooth](https://www.uantwerpen.be/en/research-groups/clips/research/publications/)
-* **ESPOL University Big Data Research Club** - *Supervision* - [PurpleBooth](http://www.espol.edu.ec/es/ingestigacion/grupos-de-investigacion/big-data)
+* **CLiPS** - *Supervision* - [Website](https://www.uantwerpen.be/en/research-groups/clips/research/publications/)
+* **ESPOL University Big Data Research Club** - *Supervision* - [Website](http://www.espol.edu.ec/es/ingestigacion/grupos-de-investigacion/big-data)
 
 
