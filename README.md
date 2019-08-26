@@ -34,23 +34,23 @@ In [data](/data), you will find:
 
 This dataset is a extension of the previous colleted MAGA corpus. It has the complete json object of each tweet. We hope this data will help other research in the future.
 
-In [notebooks](/notebooks), you will find:
+In [notebooks](/notebooks), you will find 4 jupyter notebooks:
 
 ### [GeoSpeech](/notebooks/GeoSpeech.ipynb) 
 
-This dataset is a extension of the previous colleted MAGA corpus. It has the complete json object of each tweet. We hope this data will help other research in the future.
+GeoSpeech contains two scripts. The first one will help you to crawl the complete json of a set of tweets' ids. This was used to get  [tweets_maga](/data/tweets_maga.json) . The second one will get the locations of the tweets even though they are not geolocated.
 
-### [GeoSpeech](/notebooks/GeoSpeech.ipynb) 
+### [Exploratory Data Analysis](/notebooks/MAGA Corpus - Exploratory Data Analysis.ipynb) 
 
-This dataset is a extension of the previous colleted MAGA corpus. It has the complete json object of each tweet. We hope this data will help other research in the future.
+This notebook will give you an overview of the data we are working with. We consider useful for any tabular dataset you have. You will fins data distributions, unique themes, frequencies, etc.
 
-### [GeoSpeech](/notebooks/GeoSpeech.ipynb) 
+### [ScattertextGenerator](/notebooks/Scattertext Generator.ipynb) 
 
-This dataset is a extension of the previous colleted MAGA corpus. It has the complete json object of each tweet. We hope this data will help other research in the future.
+ScattertextGenerator contains the main script of the project. It has a plug-n-play function to generate scattertexts as the ones in [results](/results) . 
 
-### [GeoSpeech](/notebooks/GeoSpeech.ipynb) 
+### [SpeechIgniters](/notebooks/SpeechIgniters.ipynb) 
 
-This dataset is a extension of the previous colleted MAGA corpus. It has the complete json object of each tweet. We hope this data will help other research in the future.
+GeoSpeech contains two scripts. The first one will preprocess the text of each tweet in order to get the tokens for the word chains. The seconf script will use network graphs theory to create a function to obtain all the words related to a specific word of the dataset.
 
 In [results](/results), you will find:
 
